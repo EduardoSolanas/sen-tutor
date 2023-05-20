@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added basic theme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact_static.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact_static.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q4eZKYsUcLBMHn3wX2t9sZx1Vo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/_sass"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass\base" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="" />
+      <created>1684617334534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684617334534</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added dummy hello world">
+      <created>1684617388827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684617388827</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added jekyll">
+      <created>1684619457289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684619457289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added jekyll">
+      <created>1684619816119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684619816119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added jekyll">
+      <created>1684620076579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684620076579</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added basic theme">
+      <created>1684625492647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684625492647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added dummy hellow world" />
+    <MESSAGE value="added dummy hello world" />
+    <MESSAGE value="added jekyll" />
+    <MESSAGE value="added basic theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added basic theme" />
+  </component>
+</project>
