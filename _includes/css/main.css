@@ -4,6 +4,8 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+
 body {
     overflow-x: hidden;
 }
@@ -477,3 +479,53 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.testimonies {
+    margin-top: 1em;
+    background: #{{ site.color.primary }};
+}
+
+.item {
+    min-height: 24em;
+}
+
+.testimony {
+    text-align: justify;
+    padding-left: 7em;
+    padding-right: 7em;
+    font-style: italic;
+}
+
+@media(max-width:767px) {
+    .testimony {
+        padding-left: 2em;
+        padding-right: 2em;
+        font-size: 1em;
+    }
+}
+
+.carousel-caption{
+    color:#000;
+    position:static;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+}
+
+.name-linkedin {
+    display: inline-flex;
+    align-items: center;
+}
+
+.linkedin-logo {
+    height: 1.58752em;
+    width: 2.7em;
+}
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('fonts/glyphicons-halflings-regular.eot');
+    src: url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('fonts/glyphicons-halflings-regular.woff') format('woff'),url('fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')
+}
+
