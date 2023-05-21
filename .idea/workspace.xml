@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added bootstrap 4, added testimonials, added linkedin link at the header" />
+    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added bootstrap 4, added testimonials, added linkedin link at the header">
+      <change afterPath="$PROJECT_DIR$/img/portfolio/Dyslexia.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684617334534</updated>
-      <workItem from="1684691804200" duration="16666000" />
+      <workItem from="1684691804200" duration="16998000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -153,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684710783812</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added bootstrap 4, added testimonials, added linkedin link at the header">
+      <created>1684711229552</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684711229552</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
