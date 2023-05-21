@@ -6,11 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added basic theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact_static.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact_static.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/modals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +93,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684625492647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added basic theme">
+      <created>1684627714844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684627714844</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added basic theme">
+      <created>1684629037662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684629037662</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added basic theme">
+      <created>1684629041977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684629041977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
