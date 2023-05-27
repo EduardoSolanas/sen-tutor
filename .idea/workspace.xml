@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added sass">
+    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="using bootstrap 5.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/freelancer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/freelancer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +24,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/css",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/css&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\css" />
@@ -81,6 +63,7 @@
       <workItem from="1684691804200" duration="17893000" />
       <workItem from="1684788476775" duration="610000" />
       <workItem from="1685184781828" duration="5126000" />
+      <workItem from="1685235009730" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -215,20 +198,152 @@
       <option name="project" value="LOCAL" />
       <updated>1685188609926</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="using bootstrap 5.2">
+      <created>1685219435289</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685219435289</updated>
+    </task>
+    <task id="LOCAL-00021" summary="using bootstrap 5.2">
+      <created>1685220099536</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1685220099536</updated>
+    </task>
+    <task id="LOCAL-00022" summary="using bootstrap 5.2">
+      <created>1685220423053</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1685220423053</updated>
+    </task>
+    <task id="LOCAL-00023" summary="using bootstrap 5.2">
+      <created>1685221835237</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685221835237</updated>
+    </task>
+    <task id="LOCAL-00024" summary="using bootstrap 5.2">
+      <created>1685221962004</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1685221962004</updated>
+    </task>
+    <task id="LOCAL-00025" summary="using bootstrap 5.2">
+      <created>1685222005012</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685222005012</updated>
+    </task>
+    <task id="LOCAL-00026" summary="using bootstrap 5.2">
+      <created>1685227210228</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685227210228</updated>
+    </task>
+    <task id="LOCAL-00027" summary="using bootstrap 5.2">
+      <created>1685227458259</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1685227458259</updated>
+    </task>
+    <task id="LOCAL-00028" summary="using bootstrap 5.2">
+      <created>1685235084605</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685235084605</updated>
+    </task>
+    <task id="LOCAL-00029" summary="using bootstrap 5.2">
+      <created>1685235095182</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685235095182</updated>
+    </task>
+    <task id="LOCAL-00030" summary="using bootstrap 5.2">
+      <created>1685239048912</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1685239048912</updated>
+    </task>
+    <task id="LOCAL-00031" summary="using bootstrap 5.2">
+      <created>1685239139535</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1685239139535</updated>
+    </task>
+    <task id="LOCAL-00032" summary="using bootstrap 5.2">
+      <created>1685239281838</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1685239281838</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1c7a5281-28f4-4945-97d1-e2f38403f5b2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/js" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1c7a5281-28f4-4945-97d1-e2f38403f5b2" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -239,6 +354,11 @@
     <MESSAGE value="added basic theme" />
     <MESSAGE value="added bootstrap 4, added testimonials, added linkedin link at the header" />
     <MESSAGE value="added sass" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sass" />
+    <MESSAGE value="using bootstrap 5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="using bootstrap 5.2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
