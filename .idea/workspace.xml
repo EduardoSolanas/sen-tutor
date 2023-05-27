@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added bootstrap 4, added testimonials, added linkedin link at the header">
-      <change afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startApp.bat" afterDir="false" />
+    <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added sass">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/freelancer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/freelancer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +50,8 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/css",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,7 +80,7 @@
       <updated>1684617334534</updated>
       <workItem from="1684691804200" duration="17893000" />
       <workItem from="1684788476775" duration="610000" />
-      <workItem from="1685184781828" duration="3621000" />
+      <workItem from="1685184781828" duration="5126000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -192,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684711645858</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added sass">
+      <created>1685188609926</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685188609926</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +238,7 @@
     <MESSAGE value="added jekyll" />
     <MESSAGE value="added basic theme" />
     <MESSAGE value="added bootstrap 4, added testimonials, added linkedin link at the header" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap 4, added testimonials, added linkedin link at the header" />
+    <MESSAGE value="added sass" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sass" />
   </component>
 </project>
