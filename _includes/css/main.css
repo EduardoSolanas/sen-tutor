@@ -513,19 +513,7 @@ footer .footer-below {
     background-image: none;
 }
 
-.name-linkedin {
-    display: inline-flex;
-    align-items: center;
-}
 
-.linkedin-logo {
-    height: 1.58752em;
-    width: 2.7em;
-}
 
-@font-face {
-    font-family: 'Glyphicons Halflings';
-    src: url('fonts/glyphicons-halflings-regular.eot');
-    src: url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('fonts/glyphicons-halflings-regular.woff') format('woff'),url('fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')
-}
+
 

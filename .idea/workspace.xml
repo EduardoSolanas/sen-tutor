@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="added bootstrap 4, added testimonials, added linkedin link at the header">
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Dyslexia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startApp.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +33,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/img",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/eduar/OneDrive/Documentos/GitHub/sen-tutor/css",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\img" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\css" />
       <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\sass" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\img" />
       <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_assets\fonts" />
-      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_includes" />
-      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass\ed" />
       <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_includes" />
-      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass\base" />
+      <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor\_sass\styles" />
       <recent name="C:\Users\eduar\OneDrive\Documentos\GitHub\sen-tutor" />
     </key>
   </component>
@@ -55,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684617334534</updated>
-      <workItem from="1684691804200" duration="16998000" />
+      <workItem from="1684691804200" duration="17893000" />
+      <workItem from="1684788476775" duration="610000" />
+      <workItem from="1685184781828" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -162,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684711229552</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added bootstrap 4, added testimonials, added linkedin link at the header">
+      <created>1684711350226</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684711350226</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added bootstrap 4, added testimonials, added linkedin link at the header">
+      <created>1684711356332</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684711356332</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added bootstrap 4, added testimonials, added linkedin link at the header">
+      <created>1684711645858</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684711645858</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
