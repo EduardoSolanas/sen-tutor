@@ -25,7 +25,8 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "webrick", "~> 1.7.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8.0"
 
-  spec.add_development_dependency "bundler", "~> 2.0"
+  spec.add_development_dependency "bundler", "~> 2.4.13"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "html-proofer", "~> 3.15"
+  spec.add_development_dependency "jekyll-minifier"
 end
