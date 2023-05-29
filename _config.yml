@@ -1,9 +1,12 @@
 # Site settings
-title: Sen Tutor - Eva Coates
+title: SEN Tutors | Special Needs Tuition | Eva Coates
+tagline: Experienced SEN Tutoring Services | Individual Learning Support for Special Educational Needs
 email: ewa.coates@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: https://www.sen-tutor.co.uk
+author: Ewa Coates
+locale: en-GB
+description: "Discover SEN Tutoring Services. Specialized, one-on-one support to enhance learning for children with SEN. Expert tutors, personalized strategies."
+keywords: "SEN Tutoring,SEN Learning Strategies,SEN Tutoring Services,SEN Curriculum Support,SEN Teaching Techniques,Private SEN Tutors,One-on-One SEN Tutoring"
 meta_author: Ewa Coates
 
 # Google webmaster tools
@@ -43,3 +46,6 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+plugins:
+  - jekyll-seo-tag

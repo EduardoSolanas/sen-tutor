@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="73890399-37c2-4cf2-9c48-057f81ee5f32" name="Changes" comment="using bootstrap 5.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freelancer-theme-jekyll.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/freelancer-theme-jekyll.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
       <workItem from="1684788476775" duration="610000" />
       <workItem from="1685184781828" duration="5126000" />
       <workItem from="1685235009730" duration="1556000" />
+      <workItem from="1685325312792" duration="2413000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -289,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685239281838</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="using bootstrap 5.2">
+      <created>1685325382615</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1685325382615</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
