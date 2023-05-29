@@ -37,7 +37,11 @@ markdown: kramdown
 permalink: pretty
 
 sass:
-  style: expanded
+  style: compressed
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 #for posts
 defaults:
@@ -49,4 +53,3 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-minifier
