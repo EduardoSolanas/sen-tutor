@@ -1,11 +1,14 @@
 # Site settings
-title: SEN Tutors | Special Needs Tuition | Eva Coates
+title: SEN Tutor | Special Needs Tuition | Eva Coates
 tagline: Experienced SEN Tutoring Services | Individual Learning Support for Special Educational Needs
 email: ewa.coates@gmail.com
 url: https://www.sen-tutor.co.uk
-author: Ewa Coates
+author: Eva Coates
+author_first_name: Eva
+author_last_name: Coates
+
 locale: en-GB
-description: "Discover SEN Tutoring Services. Specialized, one-on-one support to enhance learning for children with SEN. Expert tutors, personalized strategies."
+description: "Discover SEN Tutoring Services. Specialized, one-on-one support to enhance learning for children with SEN. Expert tutor, personalized strategies."
 keywords: "SEN Tutoring,SEN Learning Strategies,SEN Tutoring Services,SEN Curriculum Support,SEN Teaching Techniques,Private SEN Tutors,One-on-One SEN Tutoring"
 meta_author: Ewa Coates
 
