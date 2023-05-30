@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64fbc11-01e4-4e72-9b48-3743d75289ea" name="Changes" comment="adding uglifyjs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-    </list>
+    <list default="true" id="f64fbc11-01e4-4e72-9b48-3743d75289ea" name="Changes" comment="adding sitemap.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +106,7 @@
       <workItem from="1685325312792" duration="2413000" />
       <workItem from="1685395402156" duration="255000" />
       <workItem from="1685395666638" duration="4031000" />
-      <workItem from="1685406165159" duration="1638000" />
+      <workItem from="1685406165159" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="added dummy hello world">
       <created>1684617388827</created>
@@ -364,7 +360,35 @@
       <option name="project" value="LOCAL" />
       <updated>1685399461306</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="adding og:tags partial schema.org">
+      <created>1685410344612</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685410344612</updated>
+    </task>
+    <task id="LOCAL-00038" summary="adding og:tags partial schema.org">
+      <created>1685412011099</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685412011099</updated>
+    </task>
+    <task id="LOCAL-00039" summary="adding og:tags partial schema.org">
+      <created>1685412057547</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685412057547</updated>
+    </task>
+    <task id="LOCAL-00040" summary="adding sitemap.xml">
+      <created>1685415754325</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1685415754325</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +456,9 @@
     <MESSAGE value="using bootstrap 5.2" />
     <MESSAGE value="adding minifier" />
     <MESSAGE value="adding uglifyjs" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding uglifyjs" />
+    <MESSAGE value="adding og:tags partial schema.org" />
+    <MESSAGE value="adding sitemap.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding sitemap.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
