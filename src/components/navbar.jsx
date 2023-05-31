@@ -9,15 +9,14 @@ export default function Navbar() {
                 <Link className="navbar-brand" href="/">Eva Coates</Link>
                 <a href="https://www.linkedin.com/in/ewa-coates-191b764b/" target="_blank">
                     <Image className="linkedin-logo" alt="Eva Coates linkedin profile"
-                           src="/images/linkedin-logo.png" width={27}
-                           height={25}/>
+                           src="/images/linkedin-logo.png" width={27} height={25}/>
                 </a>
             </div>
             <button className="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
                     type="button"
                     data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                     aria-expanded="false" aria-label="Toggle navigation">
-                <span className="sr-only">Toggle navigation</span>
+                <span className="sr-only"></span>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>

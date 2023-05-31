@@ -12,8 +12,7 @@ export default function Index() {
                 <div className="col-lg-12">
                     <div className="bg-white">
                         <Image className="img-responsive" src="/images/profile.png" alt="profile-pic"
-                               width={401}
-                               height={520}
+                               width={401} height={520}
                         />
                     </div>
                     <div className="intro-text">
@@ -97,7 +96,9 @@ export default function Index() {
                                                 <div className="divider-custom-line"></div>
                                             </div>
                                             <Image src={`/images/${skill.image.src}`} className="img-fluid rounded mb-5"
-                                                 alt={ skill.image.alt } />
+                                                 alt={ skill.image.alt }
+                                                   width={800} height={450}
+                                            />
                                                 {skill.paragraphs.map((paragraph,pIndex) => (
                                                     <p className="mb-4" key={pIndex}>{paragraph}</p>
                                                 ))}

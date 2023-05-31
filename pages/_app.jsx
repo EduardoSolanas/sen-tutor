@@ -1,4 +1,4 @@
-import Layout from '../src/components/layout';
+import Layout from '@/components/layout.jsx';
 import 'bootstrap/dist/css/bootstrap.css'
 import '../src/styles/main.scss'
 import '../src/styles/freelancer.scss'
@@ -11,8 +11,11 @@ export default function MyApp({Component, pageProps}) {
         require("bootstrap/dist/js/bootstrap.bundle.js");
     }, []);
 
+    const title = "SEN Tutor | Special Needs Tuition | Eva Coates"
+
     return <>
         <Head>
+            <title>{title}</title>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
             <meta name="viewport" content="width=device-width"/>
             <meta name="description"
@@ -23,7 +26,7 @@ export default function MyApp({Component, pageProps}) {
             <link rel="canonical" href="https://www.sen-tutor.co.uk/"/>
             <meta property="og:locale" content="en_GB"/>
             <meta property="og:type" content="website"/>
-            <meta property="og:title" content="SEN Tutor | Special Needs Tuition | Eva Coates"/>
+            <meta property="og:title" content={title}/>
             <meta property="og:description"
                   content="Discover SEN Tutoring Services. Specialized, one-on-one support to enhance learning for children with SEN. Expert tutor, personalized strategies."/>
             <meta property="og:url" content="https://www.sen-tutor.co.uk/"/>
@@ -33,12 +36,6 @@ export default function MyApp({Component, pageProps}) {
             <meta property="og:image:width" content="401"/>
             <meta property="og:image:height" content="520"/>
             <meta property="og:image:type" content="image/png"/>
-
-
-
-        </Head>
-        <Layout>
-            <Component {...pageProps} />
             <Script
                 src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
                 strategy="beforeInteractive" id="google-analytics-lib"
@@ -93,6 +90,10 @@ export default function MyApp({Component, pageProps}) {
                 });
                 `}
             </Script>
+        </Head>
+        <Layout>
+            <Component {...pageProps} />
+
         </Layout>
     </>
 }
