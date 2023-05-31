@@ -1,14 +1,15 @@
 import Image from 'next/image';
+import Link from "next/link";
 
 export default function Navbar() {
     return <nav className="navbar navbar-expand-lg bg-secondary text-uppercase text-white fixed-top navbar-fixed-top"
                 id="mainNav">
         <div className="container">
             <div className="name-linkedin">
-                <a className="navbar-brand" href="/">Eva Coates</a>
+                <Link className="navbar-brand" href="/">Eva Coates</Link>
                 <a href="https://www.linkedin.com/in/ewa-coates-191b764b/" target="_blank">
                     <Image className="linkedin-logo" alt="Eva Coates linkedin profile"
-                           src="/linkedin-logo.png" width={27}
+                           src="/images/linkedin-logo.png" width={27}
                            height={25}/>
                 </a>
             </div>
@@ -24,20 +25,20 @@ export default function Navbar() {
             <div className="collapse navbar-collapse" id="navbarResponsive">
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item mx-0 mx-lg-1">
-                        <a className="nav-link py-3 px-0 px-lg-3 rounded"
-                           href="/#testimonials">Testimonials</a>
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                           href="/#testimonials">Testimonials</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
-                        <a className="nav-link py-3 px-0 px-lg-3 rounded"
-                           href="/#portfolio">Skills</a>
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                           href="/#portfolio">Skills</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
-                        <a className="nav-link py-3 px-0 px-lg-3 rounded"
-                           href="/about">About</a>
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                           href="/about">About</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
-                        <a className="nav-link py-3 px-0 px-lg-3 rounded"
-                           href="/contact">Contact</a>
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                           href="/contact">Contact</Link>
                     </li>
                 </ul>
             </div>

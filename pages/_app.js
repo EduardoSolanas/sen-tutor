@@ -35,11 +35,15 @@ export default function MyApp({Component, pageProps}) {
             <meta property="og:image:type" content="image/png"/>
 
 
+
+        </Head>
+        <Layout>
+            <Component {...pageProps} />
             <Script
                 src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
-                strategy="afterInteractive"
+                strategy="beforeInteractive" id="google-analytics-lib"
             />
-            <Script id="google-analytics" strategy="afterInteractive">
+            <Script id="google-analytics" strategy="beforeInteractive">
                 {`
                   window.dataLayer = window.dataLayer || [];
                   function gtag(){window.dataLayer.push(arguments);}
@@ -48,10 +52,7 @@ export default function MyApp({Component, pageProps}) {
                   gtag('config', 'G-FHXQWC3EKV');
                 `}
             </Script>
-        </Head>
-        <Layout>
-            <Component {...pageProps} />
-            <Script strategy="beforeInteractive">
+            <Script strategy="beforeInteractive" id="freelancer-js">
                 {`
                   window.addEventListener('DOMContentLoaded', event => {
                 
