@@ -5,13 +5,17 @@ import '../src/styles/freelancer.scss'
 import Head from "next/head";
 import Script from "next/script";
 import {useEffect} from "react";
+import { useRouter } from 'next/router';
 
 export default function MyApp({Component, pageProps}) {
+    const { asPath, pathname } = useRouter();
+
     useEffect(() => {
         require("bootstrap/dist/js/bootstrap.bundle.js");
     }, []);
 
     const title = "SEN Tutor | Special Needs Tuition | Eva Coates"
+    const canonical = `https://kizie.co` + pathname;
 
     return <>
         <Head>
@@ -23,7 +27,7 @@ export default function MyApp({Component, pageProps}) {
             <meta name="keywords"
                   content="SEN Tutoring,SEN Learning Strategies,SEN Tutoring Services,SEN Curriculum Support,SEN Teaching Techniques,Private SEN Tutors,One-on-One SEN Tutoring"/>
             <meta name="author" content="Ewa Coates"/>
-            <link rel="canonical" href="https://www.sen-tutor.co.uk/"/>
+            <link rel="canonical" href={`https://www.sen-tutor.co.uk/${canonical}`}/>
             <meta property="og:locale" content="en_GB"/>
             <meta property="og:type" content="website"/>
             <meta property="og:title" content={title}/>
