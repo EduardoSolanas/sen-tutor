@@ -68,39 +68,31 @@ export default function About() {
             </div>
             <div className="row">
                 <div className="col-lg-12 text-center mb-4 mt-3">
-                    <h3>My Teaching Philosophy</h3>
+                    <h3>Programs taught</h3>
                 </div>
                 <div>
-                    <p>Each child has a right to strive. Each child has a right to be listened to. Each child has a
-                        right to be respected.</p>
-                </div>
-                <div>
-                    <p>My teaching philosophy is very much about breaking barriers to learning through a holistic
-                        approach and personalised, targeted intervention, based on robust training and skilful choice of
-                        resources and appropriate instruction.</p>
-                </div>
-                <div>
-                    <p>I am very thankful that I have spent the first years of my teaching career in a school that
-                        allowed me to grow, thrive and challenge my teaching practices. When I began, I supported
-                        students with specific learning difficulties both as a teacher and a class support assistant.
-                        This allowed me to see various teaching approaches and gain valuable insight into the current
-                        English curriculum, but also to observe my students who thrived in ways that I would not observe
-                        just delivering ‘Read Write Ink‘, ‘Lit Programme’, ‘Rapid Reader’, ‘Sound Roots’ or ‘SRA’. Very
-                        quickly I learnt that holistic approach to each student, together with subject knowledge and
-                        robust specialist training were a key to success. Four years later, after a long-awaited Ofsted
-                        Inspection in the same school, my teaching provision was rated as very strong and my name was
-                        mentioned among the top-performing teachers. At the time, I have been an interim Lead Teacher in
-                        Autism Resourced Base, with a thorough level 3 training in supporting verbal students with
-                        autism, on my way to complete a level 5 training in supporting students with SpLD/dyslexia
-                        whilst teaching a differentiated English and Maths core curriculum for students with additional
-                        learning needs. Four years later I have become a teacher able to deliver multi-sensory virtual
-                        classes via online platforms and video-conferencing software in an Apple accredited school,
-                        where IT is an everyday experience for everybody, and One Drive facilitates students’ electronic
-                        exercise books.</p>
-                </div>
-                <div>
-                    <p>Each day at school is a new challenge and I will not stop until I find a solution for each of my
-                        tutees.</p>
+                    <p> Inclusion based schemes of work and programs to SEN and underachieving students</p>
+                    <ul>
+                        <li>English nurture groups (Y7-9)</li>
+                        <li>Maths nurture groups (Y8-9)</li>
+                        <li>Zones of Regulation (Y9-11)</li>
+                        <li>The Incredible 5/point scale (Y7-8)</li>
+                        <li>Expressive Language (Y7-9)</li>
+                        <li>Vocabulary Enrichment (Y7-9)</li>
+                        <li>Lego (Y7-8)</li>
+                        <li>Reading (Y7-8) Writing and comprehension (Y7-9)</li>
+                        <li>Literacy and numeracy (Y7-9)</li>
+                        <li>Functional Skills English and Maths (Y10-11)</li>
+                        <li>Toe by Toe</li>
+                        <li>SRA (Y1-9)</li>
+                        <li>Assisting in the delivery of ‘Read Write Inc’ (Y1);</li>
+                        <li>Expressive Language program, Vocabulary Enrichment program (Y7-8)</li>
+                        <li>ASDAN (Y10-11)</li>
+                        <li>Prince’s Trust (Y10-11)</li>
+                        <li>PAT (Y7-8)</li>
+                        <li>Dockside (Y7-8)</li>
+                        <li>Word Family Method(Y1-7)</li>
+                    </ul>
                 </div>
             </div>
         </div>

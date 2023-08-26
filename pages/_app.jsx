@@ -25,7 +25,7 @@ export default function MyApp({Component, pageProps}) {
                   content="Discover SEN Tutoring Services. Specialized, one-on-one support to enhance learning for children with SEN. Expert tutor, personalized strategies."/>
             <meta name="keywords"
                   content="SEN Tutoring,SEN Learning Strategies,SEN Tutoring Services,SEN Curriculum Support,SEN Teaching Techniques,Private SEN Tutors,One-on-One SEN Tutoring"/>
-            <meta name="author" content="Ewa Coates"/>
+            <meta name="author" content="Eva"/>
             <link rel="canonical" href={`https://www.sen-tutor.co.uk/${canonical}`}/>
             <meta property="og:locale" content="en_GB"/>
             <meta property="og:type" content="website"/>

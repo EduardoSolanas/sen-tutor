@@ -14,8 +14,8 @@ export default function Navbar() {
             </div>
             <button className="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
                     type="button"
-                    data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
-                    aria-expanded="false" aria-label="Toggle navigation">
+                    data-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
+                    aria-expanded="false" >
                 <span className="sr-only"></span>
                 <span className="icon-bar"></span>
                 <span className="icon-bar"></span>
@@ -25,7 +25,11 @@ export default function Navbar() {
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item mx-0 mx-lg-1">
                         <Link className="nav-link py-3 px-0 px-lg-3 rounded"
-                              href="/#how-it-works">How it works</Link>
+                              href="/#philosophy">My teaching philosophy</Link>
+                    </li>
+                    <li className="nav-item mx-0 mx-lg-1">
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                              href="/#how-to-start">How to start</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
                         <Link className="nav-link py-3 px-0 px-lg-3 rounded"
