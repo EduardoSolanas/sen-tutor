@@ -6,7 +6,7 @@ export const data = {
                 "Our daughter is high functioning ASD, but was struggling with note taking and revision for her A-levels after missing the GCSE\n" +
                 "                            exam experience due\n" +
                 "                            to\n" +
-                "                            Covid-19 arrangements. The tutor we chose, Ewa, has made a huge difference, with\n" +
+                "                            Covid-19 arrangements. The tutor we chose, Eva, has made a huge difference, with\n" +
                 "                            over a 1-grade jump\n" +
                 "                            in\n" +
                 "                            predicted grades within a term.",
@@ -32,14 +32,14 @@ export const data = {
         {
             author: "Lisa",
             paragraphs: [
-                "Ewa is such a talented and supportive tutor with\n" +
+                "Eva is such a talented and supportive tutor with\n" +
                 "                            endless patience. My son is in year 11 and is currently studying to take his GCSE\n" +
                 "                            maths next year.\n" +
                 "                            He\n" +
                 "                            struggles with concentration and memory and it affects his confidence massively but\n" +
                 "                            he has been\n" +
                 "                            working\n" +
-                "                            with Ewa once a week for several months and his confidence and ability have soared\n" +
+                "                            with Eva once a week for several months and his confidence and ability have soared\n" +
                 "                            already. His\n" +
                 "                            school\n" +
                 "                            work and test results are continually improving and his school teacher has even\n" +
@@ -47,7 +47,7 @@ export const data = {
                 "                            confidence.",
                 "He is now getting praise points in maths instead of detentions! To me the most\n" +
                 "                            important\n" +
-                "                            part is that my son really likes Ewa. He says she's easy to speak to so he isn't\n" +
+                "                            part is that my son really likes Eva. He says she's easy to speak to so he isn't\n" +
                 "                            worried about\n" +
                 "                            asking\n" +
                 "                            questions, and if he gets something wrong he says she's really helpful and explains\n" +
@@ -55,26 +55,26 @@ export const data = {
                 "                            praise\n" +
                 "                            from a very shy socially awkward boy who struggles to connect with people he doesn't\n" +
                 "                            know. I can't\n" +
-                "                            recommend Ewa highly enough worthy of 10 stars in my eyes.",
+                "                            recommend Eva highly enough worthy of 10 stars in my eyes.",
 
             ]
         },
         {
             author: "Nadezda",
             paragraphs: [
-                "Ewa has been my daughter’s tutor for the period of 18\n" +
-                "          months. Ewa covered a variety of subjects with her, amongst those were: English,\n" +
+                "Eva has been my daughter’s tutor for the period of 18\n" +
+                "          months. Eva covered a variety of subjects with her, amongst those were: English,\n" +
                 "          essay writing,\n" +
                 "          chemistry, biology and physics, while working with my daughter 4 hours every week.\n" +
                 "          My daughter has\n" +
-                "          additional needs, hence Ewa’s expertise and her support were essential in my\n" +
+                "          additional needs, hence Eva’s expertise and her support were essential in my\n" +
                 "          daughter’s progress.\n" +
                 "          She\n" +
                 "          has cerebral palsy and she is visually impaired, she is dyslexic and dyspraxic, and\n" +
                 "          has a problem\n" +
                 "          with\n" +
                 "          short therm memory.",
-                "Ewa’s work was essential and my daughter managed to improve and to catch up with\n" +
+                "Eva’s work was essential and my daughter managed to improve and to catch up with\n" +
                 "          her\n" +
                 "          peers. During COVID 19 and the lockdown, all the lessons were on Zoom and Teams,\n" +
                 "          with interactive\n" +
@@ -89,11 +89,11 @@ export const data = {
         },
         {
             paragraphs: [
-                "Ewa has been so helpful with my son, currently in the\n" +
+                "Eva has been so helpful with my son, currently in the\n" +
                 "          first year of sixth form. He has aspergers and ADHD and struggles with organisation\n" +
                 "          and study\n" +
                 "          techniques, finding it difficult to focus.",
-                "Ewa is patient, committed and highly skilled at breaking\n" +
+                "Eva is patient, committed and highly skilled at breaking\n" +
                 "          daunting homework tasks down into small steps. She is always supportive and looking\n" +
                 "          for ways to make\n" +
                 "          a difference."
@@ -102,19 +102,19 @@ export const data = {
         },
         {
             paragraphs: [
-                "Ewa is highly experienced in all areas of special needs, in particular ASD and Dyslexia.",
+                "Eva is highly experienced in all areas of special needs, in particular ASD and Dyslexia.",
                 "She sets very high standards for her pupils, prepares meticulously and is able to motivate the most reluctant learners. She is highly professional and committed. She is also extremely skilled and trained in speech and language. Highly recommended."
             ],
             author: "Susan"
         },
         {
             paragraphs: [
-                "Ewa is a lovely kind and patient tutor that has been working with my 13 year old son,\n" +
+                "Eva is a lovely kind and patient tutor that has been working with my 13 year old son,\n" +
                 "            3 times a week\n" +
                 "            for the past 4 months.",
-                "Under Ewa’s thoughtful and skilled tutelage he has progressed nicely and is much more\n" +
+                "Under Eva’s thoughtful and skilled tutelage he has progressed nicely and is much more\n" +
                 "            confident as a\n" +
-                "            result. I would highly recommend Ewa. 5 stars!"
+                "            result. I would highly recommend Eva. 5 stars!"
             ],
             author: "L Galli"
         }
