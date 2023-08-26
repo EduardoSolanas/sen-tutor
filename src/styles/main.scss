@@ -31,10 +31,21 @@ p {
 
 .chose {
   font-size: 1.3em;
+  p {
+    text-align: left !important;
+  }
 }
 
 .navbar-toggler .icon-bar {
   background-color: #ffffff;
+}
+
+.list-decimals {
+  list-style-type: decimal;
+
+  li {
+    font-size: 1.3em;
+  }
 }
 
 .navbar-toggler .icon-bar {
@@ -145,6 +156,10 @@ footer {
 
 .swiper-button-next, .swiper-button-prev {
   top: var(--swiper-navigation-top-offset, 25%);
+}
+
+.bg-grey {
+  background-color: #d3d3d3;
 }
 
 @media (min-width: 992px) {

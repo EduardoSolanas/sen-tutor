@@ -10,7 +10,7 @@ export default function Index() {
         <header className="masthead bg-primary text-white text-center">
             <div className="container d-flex align-items-center flex-column">
                 <div className="col-lg-12">
-                    <div className="bg-white">
+                    <div className="bg-grey">
                         <Image className="img-responsive" src="/images/profile.png" alt="profile-pic"
                                width={401} height={520}
                         />
@@ -41,9 +41,22 @@ export default function Index() {
                 </div>
             </div>
         </header>
-        <section className="page-section pb-0 pt-3" id="testimonials">
+        <section className="page-section  pt-3" id="how-it-works">
             <div className="container">
-                <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">Testimonials</h2>
+                <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0 pt-5">How it works</h2>
+                <div className="divider-custom mb-5">
+                    <div className="divider-custom-line"></div>
+                </div>
+                <ul className="list-decimals">
+                    <li>Fill up the <a href="/contact" target="_blank">form</a> and I will get back to you</li>
+                    <li>Book a free consultation with me to discuss your case</li>
+                    <li>Arrange an initial and further sessions (1h 90-100£)</li>
+                </ul>
+            </div>
+        </section>
+        <section className="page-section bg-primary  pt-3" id="testimonials">
+            <div className="container">
+                <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0  pt-5">Testimonials</h2>
                 <div className="divider-custom mb-5">
                     <div className="divider-custom-line"></div>
                     <div className="divider-custom-line"></div>
@@ -60,7 +73,7 @@ export default function Index() {
                 </Swiper>
             </div>
         </section>
-        <section className="page-section portfolio pt-3" id="portfolio">
+        <section className="page-section portfolio pt-3" id="skills">
             <div className="container">
                 <h2 className="page-section-heading text-center text-uppercase text-secondary mb-0">Skills</h2>
                 <div className="divider-custom">

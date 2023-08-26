@@ -6,9 +6,9 @@ export default function Navbar() {
                 id="mainNav">
         <div className="container">
             <div className="name-linkedin">
-                <Link className="navbar-brand" href="/">Eva Coates</Link>
+                <Link className="navbar-brand" href="/">Eva</Link>
                 <a href="https://www.linkedin.com/in/ewa-coates-191b764b/" target="_blank">
-                    <Image className="linkedin-logo" alt="Eva Coates linkedin profile"
+                    <Image className="linkedin-logo" alt="Eva linkedin profile"
                            src="/images/linkedin-logo.png" width={27} height={25}/>
                 </a>
             </div>
@@ -25,11 +25,15 @@ export default function Navbar() {
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item mx-0 mx-lg-1">
                         <Link className="nav-link py-3 px-0 px-lg-3 rounded"
+                              href="/#how-it-works">How it works</Link>
+                    </li>
+                    <li className="nav-item mx-0 mx-lg-1">
+                        <Link className="nav-link py-3 px-0 px-lg-3 rounded"
                            href="/#testimonials">Testimonials</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
                         <Link className="nav-link py-3 px-0 px-lg-3 rounded"
-                           href="/#portfolio">Skills</Link>
+                           href="/#skills">Skills</Link>
                     </li>
                     <li className="nav-item mx-0 mx-lg-1">
                         <Link className="nav-link py-3 px-0 px-lg-3 rounded"

@@ -3,18 +3,17 @@ import 'bootstrap/dist/css/bootstrap.css'
 import '../src/styles/main.scss'
 import '../src/styles/freelancer.scss'
 import Head from "next/head";
-import Script from "next/script";
 import {useEffect} from "react";
 import { useRouter } from 'next/router';
 
 export default function MyApp({Component, pageProps}) {
-    const { asPath, pathname } = useRouter();
+    const { pathname } = useRouter();
 
     useEffect(() => {
         require("bootstrap/dist/js/bootstrap.bundle.js");
     }, []);
 
-    const title = "SEN Tutor | Special Needs Tuition | Eva Coates"
+    const title = "SEN Tutor | Special Needs Tuition | Eva"
     const canonical = `https://kizie.co` + pathname;
 
     return <>
@@ -40,60 +39,7 @@ export default function MyApp({Component, pageProps}) {
             <meta property="og:image:width" content="401"/>
             <meta property="og:image:height" content="520"/>
             <meta property="og:image:type" content="image/png"/>
-            <Script
-                src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
-                strategy="beforeInteractive" id="google-analytics-lib"
-            />
-            <Script id="google-analytics" strategy="beforeInteractive">
-                {`
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){window.dataLayer.push(arguments);}
-                  gtag('js', new Date());
-        
-                  gtag('config', 'G-FHXQWC3EKV');
-                `}
-            </Script>
-            <Script strategy="beforeInteractive" id="freelancer-js">
-                {`
-                  window.addEventListener('DOMContentLoaded', event => {
-                
-                    // Navbar shrink function
-                    var navbarShrink = function () {
-                        const navbarCollapsible = document.body.querySelector('#mainNav');
-                        if (!navbarCollapsible) {
-                            return;
-                        }
-                        if (window.scrollY === 0) {
-                            navbarCollapsible.classList.remove('navbar-shrink')
-                        } else {
-                            navbarCollapsible.classList.add('navbar-shrink')
-                        }
-                
-                    };
-                
-                    // Shrink the navbar
-                    navbarShrink();
-                
-                    // Shrink the navbar when page is scrolled
-                    document.addEventListener('scroll', navbarShrink);
-                
-                
-                    // Collapse responsive navbar when toggler is visible
-                    const navbarToggler = document.body.querySelector('.navbar-toggler');
-                    const responsiveNavItems = [].slice.call(
-                        document.querySelectorAll('#navbarResponsive .nav-link')
-                    );
-                    responsiveNavItems.map(function (responsiveNavItem) {
-                        responsiveNavItem.addEventListener('click', () => {
-                            if (window.getComputedStyle(navbarToggler).display !== 'none') {
-                                navbarToggler.click();
-                            }
-                        });
-                    });
-                
-                });
-                `}
-            </Script>
+
         </Head>
         <Layout>
             <Component {...pageProps} />
