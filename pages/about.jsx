@@ -11,27 +11,17 @@ export default function About() {
                     <h3>Skills & Experience</h3>
                 </div>
                 <div>
-                    <p>General • KS1-KS4 support • Experience teaching primarily SEND students: SpLD- dyslexia, visual
-                        impairments, dyscalculia, processing difficulties, dyspraxia, ADD, ADHD; Autism, Speech and
-                        Language Difficulties, Profound Learning Difficulties (Global Developmental Delay, Cerebral
-                        Palsy), Literacy and Numeracy difficulties, Emotional challenges. Additionally: revision
-                        planning, study skills, skills for learning.</p>
+                    <p>General Support and Specialized Instruction for SEN Students:</p>
+                    <p>I offer comprehensive educational support across all key stages, from KS1 to KS4, with a specialized focus on students with Special Educational Needs (SEN). My expertise encompasses a broad spectrum of learning challenges including Specific Learning Difficulties (SpLD) such as dyslexia, visual impairments, dyscalculia, processing issues, dyspraxia, ADD, ADHD; conditions like Autism, and various speech and language difficulties, as well as profound learning challenges like Global Developmental Delay and Cerebral Palsy. I am also experienced in bolstering literacy and numeracy skills and addressing emotional difficulties students may face. In addition, I provide guidance in revision planning, study skills, and strategies for effective learning.</p>
                 </div>
                 <div>
-                    <p>My experience teaching students with SEN: For the past 14 years I have been supporting children
-                        and young people aged 5 to 16 with additional learning needs, including communication, memory,
-                        phonics, reading, spelling, literacy and numeracy difficulties in various subjects: English,
-                        Maths, Science, and others, where relevant.</p>
+                    <p>SEN Teaching Background:</p>
+                    <p>With 14 years dedicated to nurturing children and adolescents between 5 to 16 years old, I have honed my skills in addressing a multitude of additional learning needs. These include aiding development in communication, memory, phonics, reading, spelling, and foundational academic skills across core subjects such as English, Mathematics, and Science.</p>
+                    <p>My practical experience extends to both primary and secondary educational settings, where I have implemented SEN strategies in both mainstream environments and specialized institutions. My methods are informed by comprehensive SEN training focused on distinct learning challenges such as dyslexia, dyspraxia, dyscalculia, ADHD, and speech and language impairments, augmented by close collaboration with educational psychologists, occupational therapists, speech and language therapists, and other educational experts.</p>
                 </div>
                 <div>
-                    <p>I have experienced and observed teaching in both primary and secondary sectors, and taught SEN
-                        students in a mainstream and independent setting (both mainstream and special schools), based on
-                        specialist SEN training in specific learning difficulties- dyslexia, dyspraxia, dyscalculia,
-                        ADHD, and speech and language. This goes in line with as an extensive cooperation with
-                        educational psychologists, occupational therapists, speech and language therapists, and other
-                        school professionals. I specifically try to keep the parents in the loop along the way- any
-                        decision-making needs to tie with mutual understanding and support. My teaching was rated as
-                        good, or outstanding in internal and internal inspections.</p>
+                    <p>Parental Engagement:</p>
+                    <p>I prioritize parental involvement, recognizing that effective education is a collaborative effort that requires open communication and shared decision-making with families. This philosophy has been reflected in consistently high evaluations of my teaching, which has been recognized as good or outstanding in various assessments.</p>
                 </div>
             </div>
             <div className="row">
